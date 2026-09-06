@@ -21,12 +21,12 @@
 ## WHO WE ARE
 
 LeaderWork helps organizations build thriving businesses that meet the expectations of all
-their stakeholders — owners, employees, customers, suppliers, and the communities they
-operate in — through skilled leaders and capable leadership processes.
+their stakeholders (owners, employees, customers, suppliers, and the communities they
+operate in) through skilled leaders and capable leadership processes.
 
 Our approach is grounded in decades of real-world operating experience, not theory. We
-develop leaders in both **character** — vision, integrity, and the bravery to act — and
-**capability** — the practical skills a leader uses with their team every day. Leadership,
+develop leaders in both **character** (vision, integrity, and the bravery to act) and
+**capability** (the practical skills a leader uses with their team every day). Leadership,
 in our view, is *the* defining differentiator: good leadership makes good organizations,
 and great leadership makes great ones.
 
@@ -34,7 +34,7 @@ and great leadership makes great ones.
 
 | | |
 |---|---|
-| **[LeaderWork 12 — *What Leaders DO*](https://leader-work.com/services/leaderwork-12/)** | A 12-session core-competency course that gives an organization a common leadership language and a shared standard of practice. |
+| **[LeaderWork 12: *What Leaders DO*](https://leader-work.com/services/leaderwork-12/)** | A 12-session core-competency course that gives an organization a common leadership language and a shared standard of practice. |
 | **[Leader](https://leader-work.com/services/leader-development/) & [Executive Development](https://leader-work.com/services/executive-leader-development/)** | Cohort learning paired with one-on-one executive coaching, from first-time and front-line leaders to the C-suite. |
 | **[Corporate Culture](https://leader-work.com/services/corporate-culture/) & [Strategic Planning](https://leader-work.com/services/strategic-planning/)** | Facilitation that turns direction into repeatable, visible operating rhythms. |
 | **[Team Building](https://leader-work.com/services/team-building/) & [Speaking](https://leader-work.com/services/public-speaking/)** | Hands-on sessions and keynotes drawn from real operating experience. |
@@ -43,7 +43,7 @@ and great leadership makes great ones.
 ## HOW WE WORK
 
 Leadership can be introduced in the classroom but it is perfected in the field. That is
-why coaching sits at the center of everything we do — both a leader's own boss and their
+why coaching sits at the center of everything we do. Both a leader's own boss and their
 assigned LeaderWork coach give feedback on the effectiveness of what they actually *do*.
 We combine classroom learning, peer support within a cohort, and personalized executive
 coaching so that progress shows up in daily action and in measurable results.
@@ -53,7 +53,7 @@ the work practical, repeatable, and immediately useful with your team.
 
 ## WHAT'S IN THIS ORG
 
-This GitHub organization hosts the tooling LeaderWork uses to deliver and scale its work —
+This GitHub organization hosts the tooling LeaderWork uses to deliver and scale its work,
 including Claude Code plugins for generating branded **LW12 Executive Leadership Diagnostic
 Reports** and for applying LeaderWork brand standards across deliverables.
 
